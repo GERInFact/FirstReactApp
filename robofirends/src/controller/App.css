@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(120, 135, 171);
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    color: rgb(6, 21, 57);
+    font-size: 5rem;
+}
